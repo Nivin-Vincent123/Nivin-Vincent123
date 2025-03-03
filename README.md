@@ -19,8 +19,8 @@ I'm a passionate **Software Developer** and **Entrepreneur**, dedicated to build
 - Preparing for **Software Engineer roles** in the **US**.
 
 ## 📫 Connect With Me
-- **LinkedIn:** [[[linkedin.com/in/nivinvincent](https://linkedin.com/in/nivinvincent)](https://www.linkedin.com/public-profile/settings)](https://www.linkedin.com/public-profile/settings)
-- **GitHub:** [github.com/nivinvincent](https://github.com/nivinvincent)
+- **LinkedIn:** https://www.linkedin.com/public-profile
+- **GitHub:** https://github.com/Nivin-Vincent123
 - **Email:** nivinvincen@gmail.com
 
 ## 📊 GitHub Stats
