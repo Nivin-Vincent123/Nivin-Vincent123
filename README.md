@@ -13,23 +13,21 @@ I'm a passionate **Software Developer** and **Entrepreneur**, dedicated to build
 - **Other:** SEO Optimization, Marketing, Video Editing (Premiere Pro, DaVinci Resolve)
 
 ## 🎯 What I'm Working On
-- LEAPART
+- **[LEAPART](https://github.com/your-repo)**
 - **Video Summary Web App** – A tool to generate summaries of YouTube videos.
 - **Code Campanion** – A cloud-based platform for developers to store and access code from any device.
-- Preparing for **Software Engineer roles** in the **US**.
+- **Rental Valley** – A  platform to find the bestrental deals nearby you.
+- 
+- Preparing for **Software Engineer roles**.
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/public-profile
-- **GitHub:** https://github.com/Nivin-Vincent123
-- **Email:** nivinvincen@gmail.com
+- **Website:** [your-website.com](https://your-website.com)
+- **LinkedIn:** [linkedin.com/in/nivin-vincent-802b9a269](https://www.linkedin.com/in/nivin-vincent-802b9a269/)
+- **GitHub:** [github.com/Nivin-Vincent123](https://github.com/Nivin-Vincent123)
+- **Email:** [nivinvincen@gmail.com](mailto:nivinvincen@gmail.com)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivinvincent&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivin-Vincent123&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Let's build something amazing together! 🚀
 
-
-<!---
-Nivin-Vincent123/Nivin-Vincent123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
